@@ -16,6 +16,9 @@ public class TestGit {
     public void mul(){
         System.out.println("Mul" +5*3);
     }
+    public void div() {
+        System.out.println("Div" +8/4);
+    }
     public void mod(){
         System.out.println("mod" + 10%2);
     }
