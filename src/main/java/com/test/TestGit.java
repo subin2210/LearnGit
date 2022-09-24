@@ -9,4 +9,7 @@ public class TestGit {
     {
         System.out.println("Sum=" +(5+3));
     }
+    public void mul(){
+        System.out.println("Mul" +5*3);
+    }
 }
