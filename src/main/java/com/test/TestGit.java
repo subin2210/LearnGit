@@ -19,4 +19,7 @@ public class TestGit {
     public void div() {
         System.out.println("Div" +8/4);
     }
+    public void mod(){
+        System.out.println("mod" + 10%2);
+    }
 }
