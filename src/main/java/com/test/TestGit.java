@@ -9,4 +9,8 @@ public class TestGit {
     {
         System.out.println("Sum=" +(5+3));
     }
+    public void sub()
+    {
+        System.out.println("Difference="+(6-4));
+    }
 }
